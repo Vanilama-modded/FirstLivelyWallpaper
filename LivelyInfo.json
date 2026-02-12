@@ -1,1 +1,7 @@
+  {
+  "Title": "Vanilama's First Lively Wallpaper",
+  "Desc": "A first try at making a lively wallpaper",
+  "Author": "Vanilama Modded",
+  "License": "See License.txt",
   "Arguments": "--system-nowplaying",
+  }
