@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(10, 17, 37);
+}
+.link {
+  font-size: 25px;
+  color: rgb(47, 57, 85);
+  position: absolute;
+  top: 98%;
+  left: 94%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+.link:hover {
+  color: rgb(109, 123, 163);
+}
