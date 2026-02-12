@@ -5,10 +5,11 @@ body {
   font-size: 25px;
   color: rgb(47, 57, 85);
   position: absolute;
-  top: 2%;
-  left: 94%;
+  top: 98%;
+  left: 92.5%;
   transform: translate(-50%, -50%);
   white-space: nowrap;
+  font-family: 'Maria', sans-serif;
 }
 .link:hover {
   color: rgb(109, 123, 163);
